@@ -42,7 +42,7 @@ homebrew_installed_packages:
   - wget
 
 homebrew_cask_apps:
-  - 1password
+  - lastpass
   - atom
   - calibre
   - docker
